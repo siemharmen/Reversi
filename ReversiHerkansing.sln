@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversiHerkansing", "Revers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversiMVC", "ReversiMVC\ReversiMVC.csproj", "{8BA05CB2-AF6E-4B6A-97A5-FEB1DED703BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSpel", "TestSpel\TestSpel.csproj", "{955F23DE-0F2C-4632-B7B1-2ED1179706C0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{8BA05CB2-AF6E-4B6A-97A5-FEB1DED703BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA05CB2-AF6E-4B6A-97A5-FEB1DED703BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA05CB2-AF6E-4B6A-97A5-FEB1DED703BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{955F23DE-0F2C-4632-B7B1-2ED1179706C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{955F23DE-0F2C-4632-B7B1-2ED1179706C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{955F23DE-0F2C-4632-B7B1-2ED1179706C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{955F23DE-0F2C-4632-B7B1-2ED1179706C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
